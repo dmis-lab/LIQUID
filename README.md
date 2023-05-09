@@ -49,7 +49,7 @@ conda create -n liquid python=3.8
 conda activate liquid
 
 # Install all requirements
-pip install -r requirements.txt --no-cache-dir
+pip install -r requirements.txt
 ```
 
 ### Unlabeled Corpus
