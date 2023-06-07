@@ -3,7 +3,7 @@
 This is the official repository for the paper "[**LIQUID: A Framework for List Question Answering Dataset Generation**](https://arxiv.org/abs/2302.01691)" (presented at [***AAAI 2023***](https://aaai.org/Conferences/AAAI-23/)). This repository provides the implementation of the LIQUID model, guidelines on how to run the model to synthesize list QA data. Also, you can download generated datasets without having to create them from scratch (see **[here](#data-downloads)**).
 
 
-## Quick Links
+## Quick Link
 
 * [Overview](#overview)
 * [Data Downloads](#data-downloads)
